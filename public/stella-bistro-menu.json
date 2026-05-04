@@ -1,0 +1,555 @@
+[
+  {
+    "index": 0,
+    "name": "Dynamite Chicken",
+    "price": "Rs. 764.15",
+    "description": "Pieces of crispy chicken served with special sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845608.jpg?width=128&height=128"
+  },
+  {
+    "index": 1,
+    "name": "Buffalo Wings",
+    "price": "Rs. 764.15",
+    "description": "6 Pieces of combination wings served with special buffalo sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845610.jpg?width=128&height=128"
+  },
+  {
+    "index": 2,
+    "name": "Chicken Strip",
+    "price": "Rs. 636.65",
+    "description": "6 Pieces of crispy coated chicken served with honey mustard sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845611.jpg?width=225&height=225"
+  },
+  {
+    "index": 3,
+    "name": "Plain Fries",
+    "price": "Rs. 364.65",
+    "description": "250g. Fries served with ketchup",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845613.jpg?width=225&height=225"
+  },
+  {
+    "index": 4,
+    "name": "Masala Fries",
+    "price": "Rs. 381.65",
+    "description": "250g. Fries served with our special masala",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845614.jpg?width=225&height=225"
+  },
+  {
+    "index": 5,
+    "name": "Garlic Fries",
+    "price": "Rs. 407.15",
+    "description": "250g. Fries served with our special mayo garlic sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845615.jpg?width=225&height=225"
+  },
+  {
+    "index": 6,
+    "name": "Chesse Fries",
+    "price": "Rs. 466.65",
+    "description": "6mm fries served with chesse sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845616.jpg?width=225&height=225"
+  },
+  {
+    "index": 7,
+    "name": "Chicken Cheesy Strips",
+    "price": "Rs. 764.15",
+    "description": "6 Pieces of combined wings served with special buffalo Sauce",
+    "image": ""
+  },
+  {
+    "index": 8,
+    "name": "Stella Special Burger",
+    "price": "Rs. 1,359.15",
+    "description": "Two stuffed beef patties served with a potato bun & fries",
+    "image": "https://images.deliveryhero.io/image/fd-pk/products/98845623.jpg?width=225&height=225"
+  },
+  {
+    "index": 9,
+    "name": "Classic Beef Burger",
+    "price": "Rs. 934.15",
+    "description": "Beef patty stuffed in a burger bun with the crunch of fresh vegetables",
+    "image": "https://images.deliveryhero.io/image/fd-pk/products/98845624.jpg?width=225&height=225"
+  },
+  {
+    "index": 10,
+    "name": "Smash Beef Burger",
+    "price": "Rs. 1,019.15",
+    "description": "Smashed beef patty stuffed in a potato bun with our homemade house special sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845625.jpg?width=225&height=225"
+  },
+  {
+    "index": 11,
+    "name": "Stella Signature Chicken Burger",
+    "price": "Rs. 934.15",
+    "description": "Stuffed chicken served with a potato bun & fries",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845626.jpg?width=225&height=225"
+  },
+  {
+    "index": 12,
+    "name": "Special Crispy Burger",
+    "price": "Rs. 722.50",
+    "description": "Crispy patty served in a burger bun with our special sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845627.jpg?width=225&height=225"
+  },
+  {
+    "index": 13,
+    "name": "Crispy Chicken Burger",
+    "price": "Rs. 637.50",
+    "description": "Specially marinated crispy patty served in a burger bun with our signature sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845628.jpg?width=225&height=225"
+  },
+  {
+    "index": 14,
+    "name": "Signature Supreme Pizza",
+    "price": "Rs. 1,274.15",
+    "description": "A combination of beef, chicken with our special homemade pizza sauce & topped with cheese",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845629.jpg?width=225&height=225"
+  },
+  {
+    "index": 15,
+    "name": "Fajita Pizza",
+    "price": "Rs. 1,061.65",
+    "description": "A combination of cajun marinated chicken topped with Mexican vegetables & cheese",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845630.jpg?width=225&height=225"
+  },
+  {
+    "index": 16,
+    "name": "Stella Signature Sandwich",
+    "price": "Rs. 1,061.65",
+    "description": "Three pieces of bread stuffed with chicken, cheese, egg & chefs special sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845632.jpg?width=225&height=225"
+  },
+  {
+    "index": 17,
+    "name": "Grilled Chicken Sandwich",
+    "price": "Rs. 934.15",
+    "description": "Aromatic flavor of smoky chicken stuffed with lettuce, cucumber & tomato",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845633.jpg?width=225&height=225"
+  },
+  {
+    "index": 18,
+    "name": "BBQ Sandwich",
+    "price": "Rs. 934.15",
+    "description": "Tasteful roasted chicken in the middle of two bread slices with the crunch of fresh vegetables",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845634.jpg?width=225&height=225"
+  },
+  {
+    "index": 19,
+    "name": "Malai Boti Sandwich",
+    "price": "Rs. 1,019.15",
+    "description": "Aromatic flavor of grilled chicken in the middle of two bread slices with lettuce, egg, tomato, cheese & our special sauce",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845635.jpg?width=225&height=225"
+  },
+  {
+    "index": 20,
+    "name": "Beef Chilli Dry",
+    "price": "Rs. 1,359.15",
+    "description": "Beef Chilli Dry",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845648.jpg?width=225&height=225"
+  },
+  {
+    "index": 21,
+    "name": "Chicken Chilli Dry",
+    "price": "Rs. 1,240.15",
+    "description": "Chicken Chilli Dry",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845649.jpg?width=225&height=225"
+  },
+  {
+    "index": 22,
+    "name": "Chicken Manchurian",
+    "price": "Rs. 1,240.15",
+    "description": "Chicken Manchurian",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845651.jpg?width=225&height=225"
+  },
+  {
+    "index": 23,
+    "name": "Schezwan Chicken",
+    "price": "Rs. 1,240.15",
+    "description": "Schezwan Chicken",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845652.jpg?width=225&height=225"
+  },
+  {
+    "index": 24,
+    "name": "Vegetables Chow Mein",
+    "price": "Rs. 849.15",
+    "description": "Vegetables Chow Mein",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845653.jpg?width=225&height=225"
+  },
+  {
+    "index": 25,
+    "name": "Chicken Chow Mein",
+    "price": "Rs. 1,061.65",
+    "description": "Chicken Chow Mein",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845654.jpg?width=225&height=225"
+  },
+  {
+    "index": 26,
+    "name": "Chicken Shashlik",
+    "price": "Rs. 1,240.15",
+    "description": "Chicken Shashlik",
+    "image": ""
+  },
+  {
+    "index": 27,
+    "name": "Vegetables Fried Rice",
+    "price": "Rs. 382.50",
+    "description": "Vegetables Fried Rice",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845655.jpg?width=225&height=225"
+  },
+  {
+    "index": 28,
+    "name": "Chicken Fried Rice",
+    "price": "Rs. 510",
+    "description": "Chicken Fried Rice",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845656.jpg?width=225&height=225"
+  },
+  {
+    "index": 29,
+    "name": "Chinese Fried Rice",
+    "price": "Rs. 510",
+    "description": "Chinese Fried Rice",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845657.jpg?width=225&height=225"
+  },
+  {
+    "index": 30,
+    "name": "Bihari Chicken Leg Tikka",
+    "price": "Rs. 594.15",
+    "description": "Bihari Chicken Leg Tikka",
+    "image": "https://images.deliveryhero.io/image/fd-pk/products/98845658.jpg?width=225&height=225"
+  },
+  {
+    "index": 31,
+    "name": "Bihari Chicken Breast Tikka",
+    "price": "Rs. 679.15",
+    "description": "Bihari Chicken Breast Tikka",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845659.jpg?width=225&height=225"
+  },
+  {
+    "index": 32,
+    "name": "Malai Tikka",
+    "price": "Rs. 679.15",
+    "description": "Malai Tikka",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845660.jpg?width=225&height=225"
+  },
+  {
+    "index": 33,
+    "name": "Bihari Chicken Boti",
+    "price": "Rs. 721.65",
+    "description": "Bihari Chicken Boti",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845661.jpg?width=225&height=225"
+  },
+  {
+    "index": 34,
+    "name": "Chicken Malai Boti",
+    "price": "Rs. 721.65",
+    "description": "Chicken Malai Boti",
+    "image": "https://images.deliveryhero.io/image/fd-pk/products/98845662.jpg?width=225&height=225"
+  },
+  {
+    "index": 35,
+    "name": "Bihari Beef Boti",
+    "price": "Rs. 1,061.65",
+    "description": "Bihari Beef Boti",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845663.jpg?width=225&height=225"
+  },
+  {
+    "index": 36,
+    "name": "Dhaga Kabab",
+    "price": "Rs. 1,019.15",
+    "description": "Dhaga Kabab",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845664.jpg?width=225&height=225"
+  },
+  {
+    "index": 37,
+    "name": "Chandan Kabab",
+    "price": "Rs. 1,019.15",
+    "description": "Chandan Kabab",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845665.jpg?width=225&height=225"
+  },
+  {
+    "index": 38,
+    "name": "Gola Kabab",
+    "price": "Rs. 1,061.65",
+    "description": "Gola Kabab",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845666.jpg?width=225&height=225"
+  },
+  {
+    "index": 39,
+    "name": "Cheese Kabab",
+    "price": "Rs. 849.15",
+    "description": "Cheese Kabab",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845668.jpg?width=225&height=225"
+  },
+  {
+    "index": 40,
+    "name": "Chicken Karahi",
+    "price": "from Rs. 1,274.15",
+    "description": "Chicken Karahi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845671.jpg?width=225&height=225"
+  },
+  {
+    "index": 41,
+    "name": "Koyla Karahi",
+    "price": "from Rs. 1,316.65",
+    "description": "Koyla Karahi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845672.jpg?width=225&height=225"
+  },
+  {
+    "index": 42,
+    "name": "White Karahi",
+    "price": "from Rs. 1,274.15",
+    "description": "White Karahi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845673.jpg?width=225&height=225"
+  },
+  {
+    "index": 43,
+    "name": "Shinwari Chicken Karahi",
+    "price": "from Rs. 1,274.15",
+    "description": "Shinwari Chicken Karahi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845674.jpg?width=225&height=225"
+  },
+  {
+    "index": 44,
+    "name": "Peshawari Karahi",
+    "price": "from Rs. 1,274.15",
+    "description": "Peshawari Karahi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845675.jpg?width=225&height=225"
+  },
+  {
+    "index": 45,
+    "name": "Shinwari Mutton Karahi",
+    "price": "Rs. 2,124.15",
+    "description": "Shinwari Mutton Karahi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845676.jpg?width=225&height=225"
+  },
+  {
+    "index": 46,
+    "name": "Makhni Handi",
+    "price": "Rs. 1,316.65",
+    "description": "Makhni Handi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845678.jpg?width=225&height=225"
+  },
+  {
+    "index": 47,
+    "name": "Paneer Handi",
+    "price": "Rs. 1,614.15",
+    "description": "Paneer Handi",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845679.jpg?width=225&height=225"
+  },
+  {
+    "index": 48,
+    "name": "Reshmi Handi",
+    "price": "Rs. 1,614.15",
+    "description": "Reshmi Handi",
+    "image": ""
+  },
+  {
+    "index": 49,
+    "name": "Stella Special Pasta",
+    "price": "Rs. 1,019.15",
+    "description": "Spicy white sauce served with the mixture of sun dried tomato, chicken, mushroom topped with parmesan cheese & black olives",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845645.jpg?width=225&height=225"
+  },
+  {
+    "index": 50,
+    "name": "Alfredo Pasta",
+    "price": "Rs. 934.15",
+    "description": "Special alfredo pasta mixed with grilled chicken & alfredo sauce",
+    "image": ""
+  },
+  {
+    "index": 51,
+    "name": "Bolognese Pasta",
+    "price": "Rs. 1,231.65",
+    "description": "Special pasta mixed with vegetables, cheese & beef",
+    "image": ""
+  },
+  {
+    "index": 52,
+    "name": "Garlic Naan",
+    "price": "Rs. 67.15",
+    "description": "Garlic Naan",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845681.jpg?width=225&height=225"
+  },
+  {
+    "index": 53,
+    "name": "Rogni Naan",
+    "price": "Rs. 84.15",
+    "description": "Rogni Naan",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845682.jpg?width=225&height=225"
+  },
+  {
+    "index": 54,
+    "name": "Plain Naan",
+    "price": "Rs. 33.15",
+    "description": "Plain Naan",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845683.jpg?width=225&height=225"
+  },
+  {
+    "index": 55,
+    "name": "Chapati",
+    "price": "Rs. 28.90",
+    "description": "Chapati",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845684.jpg?width=225&height=225"
+  },
+  {
+    "index": 56,
+    "name": "Paratha",
+    "price": "Rs. 102",
+    "description": "Paratha",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845685.jpg?width=225&height=225"
+  },
+  {
+    "index": 57,
+    "name": "Stella Signature Salad",
+    "price": "Rs. 721.65",
+    "description": "A combination of cucumber, lettuce iceberg, cheese, tomato, shrimp & egg",
+    "image": ""
+  },
+  {
+    "index": 58,
+    "name": "Strawberry Mojito",
+    "price": "Rs. 594.15",
+    "description": "Strawberry Mojito",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845686.jpg?width=225&height=225"
+  },
+  {
+    "index": 59,
+    "name": "Mango Mojito",
+    "price": "Rs. 594.15",
+    "description": "Mango Mojito",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845687.jpg?width=225&height=225"
+  },
+  {
+    "index": 60,
+    "name": "Mint Mojito",
+    "price": "Rs. 594.15",
+    "description": "Mint Mojito",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845688.jpg?width=225&height=225"
+  },
+  {
+    "index": 61,
+    "name": "Pomegranate Mojito",
+    "price": "Rs. 594.15",
+    "description": "Pomegranate Mojito",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845689.jpg?width=225&height=225"
+  },
+  {
+    "index": 62,
+    "name": "Butterscotch Shake",
+    "price": "Rs. 636.65",
+    "description": "Butterscotch Shake",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845692.jpg?width=225&height=225"
+  },
+  {
+    "index": 63,
+    "name": "Mango Shake",
+    "price": "Rs. 594.15",
+    "description": "Mango Shake",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845693.jpg?width=225&height=225"
+  },
+  {
+    "index": 64,
+    "name": "Strawberry Shake",
+    "price": "Rs. 594.15",
+    "description": "Strawberry Shake",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845694.jpg?width=225&height=225"
+  },
+  {
+    "index": 65,
+    "name": "Pista Shake",
+    "price": "Rs. 594.15",
+    "description": "Pista Shake",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845695.jpg?width=225&height=225"
+  },
+  {
+    "index": 66,
+    "name": "Kulfa Shake",
+    "price": "Rs. 594.15",
+    "description": "Kulfa Shake",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845696.jpg?width=225&height=225"
+  },
+  {
+    "index": 67,
+    "name": "Cold Coffee",
+    "price": "Rs. 679.15",
+    "description": "Cold Coffee",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845697.jpg?width=225&height=225"
+  },
+  {
+    "index": 68,
+    "name": "Tea",
+    "price": "Rs. 211.65",
+    "description": "",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845698.jpg?width=225&height=225"
+  },
+  {
+    "index": 69,
+    "name": "Luckys Special Mocktail",
+    "price": "Rs. 849.15",
+    "description": "Luckys Special Mocktail",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845700.jpg?width=225&height=225"
+  },
+  {
+    "index": 70,
+    "name": "Coconut Cooler",
+    "price": "Rs. 551.65",
+    "description": "Coconut Cooler",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845701.jpg?width=225&height=225"
+  },
+  {
+    "index": 71,
+    "name": "Coconut Blue Cooler",
+    "price": "Rs. 551.65",
+    "description": "Coconut Blue Cooler",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845702.jpg?width=225&height=225"
+  },
+  {
+    "index": 72,
+    "name": "Rainbow Star Mocktail",
+    "price": "Rs. 849.15",
+    "description": "Rainbow Star Mocktail",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845703.jpg?width=225&height=225"
+  },
+  {
+    "index": 73,
+    "name": "Mint Margarita",
+    "price": "Rs. 466.65",
+    "description": "Mint Margarita",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845704.jpg?width=225&height=225"
+  },
+  {
+    "index": 74,
+    "name": "Blue Margarita",
+    "price": "Rs. 466.65",
+    "description": "Blue Margarita",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845705.jpg?width=225&height=225"
+  },
+  {
+    "index": 75,
+    "name": "Blackberry Mocktail",
+    "price": "Rs. 509.15",
+    "description": "Blackberry Mocktail",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845706.jpg?width=225&height=225"
+  },
+  {
+    "index": 76,
+    "name": "Pineapple Mocktail",
+    "price": "Rs. 509.15",
+    "description": "Pineapple Mocktail",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845707.jpg?width=225&height=225"
+  },
+  {
+    "index": 77,
+    "name": "Fresh Lime",
+    "price": "Rs. 296.65",
+    "description": "Fresh Lime",
+    "image": "https://images.deliveryhero.io/image/fd-pk/Products/98845709.jpg?width=225&height=225"
+  },
+  {
+    "index": 78,
+    "name": "Peach Mocktail",
+    "price": "Rs. 509.15",
+    "description": "Peach Mocktail",
+    "image": ""
+  }
+]
