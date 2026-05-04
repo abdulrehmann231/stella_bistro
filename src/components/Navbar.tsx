@@ -19,12 +19,24 @@ export default function Navbar() {
   return (
     <nav className={`navbar ${isDark ? 'scrolled' : ''}`}>
       <div className="nav-container">
-        <Link href="/" className="logo" style={isDark ? { color: 'var(--text-dark)' } : {}}>
-          Stella
+        <Link href="/" className="logo" style={{ display: 'flex', alignItems: 'center' }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img 
+            src="/assets/logo.png" 
+            alt="Stella Bistro Logo" 
+            style={{ 
+              height: '65px', 
+              width: '65px', 
+              objectFit: 'cover', 
+              borderRadius: '50%', 
+              border: '2px solid var(--primary)' 
+            }} 
+            onError={(e) => { e.currentTarget.style.display = 'none'; }} 
+          />
         </Link>
         <div className="nav-links">
-          <Link href="/" className="nav-link" style={isDark ? { color: 'var(--text-dark)' } : {}}>Home</Link>
-          <Link href="/menu" className="nav-link" style={isDark ? { color: 'var(--text-dark)' } : {}}>Menu</Link>
+          <Link href="/" className="nav-link">Home</Link>
+          <Link href="/menu" className="nav-link">Menu</Link>
         </div>
         <Link href="/menu" className="btn-primary">Order Now</Link>
       </div>

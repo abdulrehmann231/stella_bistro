@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <main>
       {/* Hero Section */}
-      <header className="hero" style={{ backgroundImage: "url('/assets/dish.png')" }}>
+      <header className="hero" style={{ backgroundImage: "url('/assets/restaurant.png')" }}>
         <div className="hero-overlay"></div>
         <div className="hero-content animate-fade-in">
-          <h1 className="hero-title" style={{ color: 'white' }}>A Taste of Elegance</h1>
+          <h1 className="hero-title" style={{ color: 'var(--primary)' }}>A Taste of Elegance</h1>
           <p className="hero-subtitle" style={{ color: 'rgba(255,255,255,0.9)' }}>
             Experience the finest blend of authentic flavors and modern gastronomy in a beautiful, airy setting.
           </p>
@@ -31,7 +31,7 @@ export default function Home() {
             <Link href="/menu" className="btn-dark mt-3">Discover Our Food</Link>
           </div>
           <div className="animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            <div style={{ width: '100%', height: '400px', backgroundImage: "url('/assets/hero.png')", backgroundSize: 'cover', backgroundPosition: 'center', borderRadius: '4px' }}></div>
+            <div style={{ width: '100%', height: '450px', backgroundImage: "url('/assets/seating.png')", backgroundSize: 'cover', backgroundPosition: 'center', borderRadius: '4px' }}></div>
           </div>
         </div>
       </section>
@@ -40,7 +40,7 @@ export default function Home() {
       <section className="section-padding bg-dark text-center">
         <div className="container animate-fade-in">
           <h2 className="section-title text-primary" style={{ color: 'var(--primary)' }}>Join Us For Dinner</h2>
-          <p className="section-subtitle" style={{ color: 'var(--text-light)', maxWidth: '600px', margin: '0 auto 2rem auto' }}>
+          <p className="section-subtitle" style={{ color: 'rgba(255,255,255,0.7)', maxWidth: '600px', margin: '0 auto 2rem auto' }}>
             Whether it&apos;s a romantic evening or a gathering with loved ones, Stella Bistro offers an unforgettable dining experience.
           </p>
           <Link href="/menu" className="btn-primary">Explore Menu</Link>
